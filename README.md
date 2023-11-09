@@ -1,2 +1,2 @@
 # Basic-Database
-•	Developing a basic database system using C++. 
+•	This project implements a database system using C++ which can perform select, delete, and insert functions.
